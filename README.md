@@ -4,15 +4,15 @@ Generic non eye distractive fullscreen overlay pack for all system.
 
 Credits
 -------
-- Arcade original overlays - [batbad](http://simbabbad.blogspot.com/2016/12/artworks-overlays-MAME-RetroArch-WinUAE-1080p.html)
+- Arcade original overlays - [Batbad](http://simbabbad.blogspot.com/2016/12/artworks-overlays-MAME-RetroArch-WinUAE-1080p.html)
 - Arcade modified overlays - Cyril (Emulga)
-- Console original overlays - [exodus123456](https://forums.libretro.com/t/exodus-crt-tvs-overlays-collection-with-day-and-night-support/9192)
+- Console original overlays - [Exodus](https://forums.libretro.com/t/exodus-crt-tvs-overlays-collection-with-day-and-night-support/9192)
 - Console modified overlays - FreemanQC (Emulga)
-- Computer original overlay - [exodus123456](https://forums.libretro.com/t/exodus-crt-tvs-overlays-collection-with-day-and-night-support/9192)
+- Computer original overlay - [Exodus](https://forums.libretro.com/t/exodus-crt-tvs-overlays-collection-with-day-and-night-support/9192)
 - Computer modified overlay - FreemanQC (Emulga)
 - Handheld original overlays - Unknown
 - Handheld modified overlays - FreemanQC (Emulga)
-- Vectrex overlays - [libretro](https://github.com/libretro/overlay-borders/tree/master/1080%20GCE%20Vectrex)
+- Vectrex overlays - [Libretro](https://github.com/libretro/overlay-borders/tree/master/1080%20GCE%20Vectrex)
 
 
 Arcade
