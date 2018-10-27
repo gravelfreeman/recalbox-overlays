@@ -21,6 +21,10 @@ Arcade
 
 ![ARCADE-V](https://github.com/Emulga/recalbox-overlays/blob/master/system/.config/retroarch/overlay/arcade/arcade-v.png)
 
+Computer
+--------
+![CRT-GENERIC](https://github.com/Emulga/recalbox-overlays/blob/master/system/.config/retroarch/overlay/console/crt-generic.png)
+
 Console
 -------
 ![CRT-CLASSIC](https://github.com/Emulga/recalbox-overlays/blob/master/system/.config/retroarch/overlay/console/crt-classic.png)
@@ -28,10 +32,6 @@ Console
 ![CRT-FLAT](https://github.com/Emulga/recalbox-overlays/blob/master/system/.config/retroarch/overlay/console/crt-flat.png)
 
 ![VECTREX](https://github.com/Emulga/recalbox-overlays/blob/master/system/.config/retroarch/overlay/console/vectrex.png)
-
-Computer
---------
-![CRT-GENERIC](https://github.com/Emulga/recalbox-overlays/blob/master/system/.config/retroarch/overlay/console/crt-generic.png)
 
 Handheld
 --------
